@@ -1,2 +1,2 @@
 # Formulas
-Hold some electric formulas
+Some electric formulas
